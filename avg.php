@@ -2,5 +2,5 @@
 
 function srednia_wazona($a, $b)
 {
-    return ($a * 2 + $b) / 3;
+    return ($a * 9 + $b) / 10;
 }
